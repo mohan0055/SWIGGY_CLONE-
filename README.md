@@ -1,5 +1,3 @@
-Project Name:
-Swiggy Clone.
-Technologies Used:
-  HTML, CSS, JAVASCRIPT
+Project Name: **Swiggy Clone.**
+Technologies Used: ** HTML, CSS, JAVASCRIPT**
   
