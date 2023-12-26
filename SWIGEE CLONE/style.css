@@ -1,0 +1,112 @@
+.top{
+    margin-top: 40px;
+    margin-left: 20px;
+    background-color: white;
+}
+.buttons{
+    text-align: left;
+    margin-left: 700px;
+}
+.si{
+    background-color: black;
+    color: white;
+    width: 90px;
+    height: 40px;
+    font-size: 20px;
+}
+
+button:hover{
+    box-shadow: 1px 1px 1px 1px black;
+}
+.lo{
+    background-color: white;
+    border-style: none;
+    width: 90px;
+    height: 40px;
+    font-size: 20px;
+}
+.lo:hover{
+    color: orange;
+    border-style: none;
+
+}
+span:hover{
+    color: orange;
+}
+.mor{
+    font-size: 40px;
+}
+.dop{
+    font-size: 30px;
+}
+.img{
+    width: 190px;
+    height:60px ;
+
+}
+.popul{
+font-size: 20px;
+color: rgb(169, 157, 140);
+}
+
+.ahm{
+    font-size: 20px;
+    color: rgb(169,157,140);
+}
+
+.ahm:hover{
+    cursor: pointer;
+}
+
+.inp{
+    width: 500px;
+    height:50px;
+    font-size: 20px;
+}
+.fin
+{
+    width: 100px;
+    height:55px ;
+    background-color: orange;
+    color: white;
+    border-style: none;
+    margin: -5px;
+}
+.fin:hover{
+    cursor: pointer;
+    border-style: none;
+}
+.nim{
+    position: absolute;
+    left: calc(50% + 80px);
+    right: 0;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
+    background-position: 100%;
+    top: 0;
+    background-color: hsla(26,5%,70%,.2);
+}
+.container{
+    display: flex;
+    /* justify-content: center; */
+    /* justify-content: space-around; */
+    justify-content: space-evenly;
+    /* align-items: center; */
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 50px;
+
+    background-color: black;
+    width: 1600px;
+    height: 300px;
+    margin: 10px;   
+
+}
+.box{
+    padding-top: 50px;
+}
+
+
+
+
